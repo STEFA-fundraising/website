@@ -3,37 +3,37 @@ const roles = {
   "Mohneesh Valasa": {
     year: "2025-2027",
     role: "President",
-    image: "images/homepage_carousel/hero_2.png"
+    image: "images/people/none.jpg"
   },
   "Rohit John Bosco": {
     year: "2025-2027",
     role: "Vice President",
-    image: "images/homepage_carousel/hero_2.png"
+    image: "images/people/none.jpg"
   },
   "Rishit Varshney": {
     year: "2025-2027",
     role: "Treasurer and Web Developer",
-    image: "images/people/rishit.png"
+    image: "images/people/rishit.jpeg"
   },
   "Aarush Kumar": {
     year: "2025-2027",
     role: "Treasurer",
-    image: "images/homepage_carousel/hero_2.png"
+    image: "images/people/none.jpg"
   },
   "Vinay Gullapalli": {
     year: "2025-2027",
     role: "Secretariat",
-    image: "images/homepage_carousel/hero_2.png"
+    image: "images/people/none.jpg"
   },
   "Jackson Corbett": {
     year: "2025-2027",
     role: "Communications Director",
-    image: "images/homepage_carousel/hero_2.png"
+    image: "images/people/jackson.jpg"
   },
   "Advay Agrawal": {
     year: "2025-2027",
     role: "Communications Director",
-    image: "images/homepage_carousel/hero_2.png"
+    image: "images/people/none.jpg"
   },
   
 };
