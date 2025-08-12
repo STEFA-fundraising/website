@@ -29,13 +29,7 @@ const roles = {
     year: "2025-2027",
     role: "Communications Director",
     image: "images/people/jackson.jpg"
-  },
-  "Advay Agrawal": {
-    year: "2025-2027",
-    role: "Communications Director",
-    image: "images/people/none.jpg"
-  },
-  
+  },  
 };
 
 function renderTeam() {
